@@ -3,7 +3,8 @@
 <p align="center">
     <img src="./screenshots/dashboard.png" >
 </p>
-#Ubuntu:Install Neovim
+
+# Ubuntu:Install Neovim
 
  apt 安装 Neovim，具体方法如下：
 
