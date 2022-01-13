@@ -4,8 +4,9 @@
     <img src="./screenshots/dashboard.png" >
 </p>
 
-# Ubuntu:install Neovim
+# Install neovim：
 ```bash
+ubuntu系统
 apt 安装 Neovim，具体方法如下：
 
 sudo add-apt-repository ppa:neovim-ppa/stable
