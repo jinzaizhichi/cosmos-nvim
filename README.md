@@ -13,7 +13,7 @@
 
 If you want the power of **VSCode**, the interactivity of **Spacemacs**, and the text-objects of **Vim**, I highly recommend you try this configuration.
 
-The <kbd>leader<kbd> key is the spacebar
+The <kbd>leader</kbd> key is the <kbd>spacebar</kbd>
 
 <p align="center">
     <img width="800" src="https://rawcdn.githack.com/yetone/figure_bed/master/nvim_screenshots/dashboard6.gif" >
